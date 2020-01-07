@@ -9,7 +9,6 @@ chardet==3.0.4
 colorama==0.4.3
 cryptography==2.8
 cssselect==1.1.0
-dryscrape==1.0
 fake-useragent==0.1.11
 future==0.18.2
 idna==2.8
