@@ -19,7 +19,7 @@ for event in longpoll.listen():
             request = event.text
             if(request == "/get"):
 
-                dr.get("https://www.mos.ru/pgu/ru/services/procedure/0/0/7700000010000187206/")
+				dr.get("https://www.mos.ru/pgu/ru/services/procedure/0/0/7700000010000187206/")
 
 				el = dr.find_elements_by_xpath("//*[contains(text(), 'Получить услугу')]")
 				el[0].click()
