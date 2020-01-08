@@ -35,7 +35,6 @@ typed-ast==1.4.0
 urllib3==1.25.7
 vk-api==11.6.1
 w3lib==1.21.0
-webkit-server==1.0
 websockets==6.0
 wrapt==1.11.2
 xvfbwrapper==0.2.9
